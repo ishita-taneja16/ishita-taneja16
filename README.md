@@ -39,7 +39,8 @@
 - 🏠 **House Price Prediction App** – ML project with polished UI & interactive visualizations
 - 🏦 **Banking DBMS** – Java & SQL + PHPMyAdmin for database admin
 - 🎮 **Game Application** – Built using .NET & SQL
-- 🌐 **Static Company Website** – HTML, CSS, JS for a private company
+- 🌐 **[Personal Portfolio](https://github.com/ishita-taneja16/Portfolio)** – HTML, CSS, JS
+
 
 ---
 
