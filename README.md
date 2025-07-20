@@ -35,10 +35,10 @@
 ---
 
 ## 🚀 Projects
-- 🎬 **Netflix Clone** – HTML, CSS, PHP | Focus on user-centered design & UI
 - 🏠 **House Price Prediction App** – ML project with polished UI & interactive visualizations
-- 🏦 **Banking DBMS** – Java & SQL + PHPMyAdmin for database admin
 - 🎮 **Game Application** – Built using .NET & SQL
+- 🎬 **Netflix Clone** – HTML, CSS, **PHP (backend)**, SQL | Focus on user-centered design & dynamic content
+- 🏦 **Banking DBMS** – Java & SQL + PHPMyAdmin for database admin
 - 🌐 **[Personal Portfolio](https://github.com/ishita-taneja16/Portfolio)** – HTML, CSS, JS
 
 
