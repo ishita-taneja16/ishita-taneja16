@@ -37,7 +37,7 @@
 ## 🚀 Projects
 - 🏠 **House Price Prediction App** – ML project with polished UI & interactive visualizations
 - 🎮 **Game Application** – Built using .NET & SQL
-- 🎬 **Netflix Clone** – HTML, CSS, **PHP (backend)**, SQL | Focus on user-centered design & dynamic content
+- 🎬 **[Netflix Clone](https://github.com/ishita-taneja16/Media_Streaming_Project)** – HTML, CSS, **PHP (backend)**, SQL | Focus on user-centered design & dynamic content
 - 🏦 **Banking DBMS** – Java & SQL + PHPMyAdmin for database admin
 - 🌐 **[Personal Portfolio](https://github.com/ishita-taneja16/Portfolio)** – HTML, CSS, JS
 
