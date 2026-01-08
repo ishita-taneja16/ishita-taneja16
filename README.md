@@ -35,10 +35,11 @@
 ---
 
 ## 🚀 Projects
-- 🏠 **House Price Prediction App** – ML project with polished UI & interactive visualizations
+- 🏠 **[House, PG and Flat Price Prediction and Management System]()** - A machine learning–powered platform for smart, verified real estate price prediction and discovery.
+- 🏡 **House Price Prediction App** – ML project with polished UI & interactive visualizations
 - 🎮 **Game Application** – Built using .NET & SQL
 - 🎬 **[Netflix Clone](https://github.com/ishita-taneja16/Media_Streaming_Project)** – HTML, CSS, **PHP (backend)**, SQL | Focus on user-centered design & dynamic content
-- 🏦 **Banking DBMS** – Java & SQL + PHPMyAdmin for database admin
+- 🏦 **[Banking DBMS](https://github.com/ishita-taneja16/Java_Banking_DBMS_project)** – Java & SQL + PHPMyAdmin for database admin
 - 🌐 **[Personal Portfolio](https://github.com/ishita-taneja16/Portfolio)** – HTML, CSS, JS
 
 
