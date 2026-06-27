@@ -1,163 +1,164 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Ishita Taneja</h1>
 
 <h3 align="center">
-Generative AI Engineer • AI/ML Developer • Building Intelligent AI Applications
+🚀 Generative AI Engineer | AI/ML Developer | LLM & Agentic AI Enthusiast
 </h3>
 
 <p align="center">
-Passionate about building AI systems powered by Large Language Models, Agentic AI workflows, Retrieval-Augmented Generation (RAG), and modern backend technologies.
+Passionate about building intelligent AI applications using Large Language Models (LLMs), Agentic AI, LangChain, LangGraph, Retrieval-Augmented Generation (RAG), and modern backend technologies.
 </p>
-
----
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Girl"/>
 </p>
 
 ---
 
-# 🚀 About Me
+## 👩‍💻 About Me
 
-- 🤖 Passionate about **Generative AI, Agentic AI and LLM Applications**
-- 🧠 Building intelligent applications using **LangChain, LangGraph, Gemini API & RAG**
-- 🔍 Interested in AI agents, semantic search and workflow orchestration
-- 🐍 Strong foundation in **Python, Django, SQL and REST APIs**
-- 🌱 Currently exploring **Cloud Deployment, LLMOps and scalable AI systems**
-- 💡 Love solving real-world problems through AI-powered products
-
----
-
-# 🛠 Tech Stack
-
-### AI & Generative AI
-
-- Python
-- Large Language Models (LLMs)
-- Google Gemini API
-- LangChain
-- LangGraph
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- FAISS
-- Sentence Transformers
-- Agentic AI Workflows
-- Semantic Search
-
-### Backend
-
-- Django
-- REST APIs
-- SQL
-- MySQL
-
-### Machine Learning
-
-- Scikit-learn
-- Pandas
-- NumPy
-- OpenCV
-
-### Programming
-
-- Python
-- Java
-- SQL
-- HTML
-- CSS
-- JavaScript
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
-- Linux
+- 🤖 Building **Generative AI** and **Agentic AI** applications
+- 🧠 Experienced with **LangChain, LangGraph, Google Gemini API, RAG & FAISS**
+- 💻 Strong foundation in **Python, Django, REST APIs & SQL**
+- 📊 Passionate about solving real-world problems with AI
+- 🌱 Currently learning **LLMOps, Cloud Deployment & Multi-Agent AI Systems**
+- 🚀 Open to AI/ML, GenAI & Backend Development opportunities
 
 ---
 
-# 🌟 Featured Projects
+## 🛠️ Tech Stack
 
-## 🕵️ TruthLensAI
-**Generative AI-based Lie Detection Platform using Agentic Workflows**
+### 🤖 AI & LLM
 
-- Built intelligent multi-turn interrogation workflows using LangGraph
-- Implemented Retrieval-Augmented Generation (RAG)
-- Used FAISS and Sentence Transformers for semantic memory
-- Integrated Google Gemini API for contextual reasoning
-- Developed secure Django REST backend
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-7B42BC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sentence_Transformers-00BCD4?style=for-the-badge"/>
+</p>
+
+### 💻 Backend
+
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+</p>
+
+### 📊 Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+</p>
+
+### ⚙️ Languages & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 ---
 
-## 🤖 AI Database Genie
+# 🚀 Featured Projects
 
+### 🕵️ TruthLensAI
+**Generative AI-Based Lie Detection Platform using Agentic Workflows**
+
+- Built intelligent interrogation workflows using **LangGraph**
+- Implemented **Retrieval-Augmented Generation (RAG)**
+- Used **FAISS** & **Sentence Transformers** for semantic memory
+- Integrated **Google Gemini API**
+- Developed secure backend using **Django**
+
+---
+
+### 🤖 AI Database Genie
 **Agentic AI Database Assistant**
 
-- Built an AI assistant that converts natural language into SQL queries
-- Implemented LangGraph workflow orchestration
-- Integrated Google Gemini API
-- Developed secure REST APIs using Django
-- Applied OWASP API security practices
+- Natural Language to SQL using **Google Gemini**
+- Agentic workflows with **LangGraph**
+- Metadata-aware database querying
+- Secure REST APIs using **Django**
+- OWASP API Security implementation
 
 ---
 
-## 🏠 BrickWorth+
+### 🏠 BrickWorth+
+**AI-powered House Price Prediction Platform**
 
-**ML-powered House Price Prediction Platform**
-
-- Machine Learning-based property valuation system
-- Django backend with interactive web interface
-- Intelligent property search and prediction
-- Model training using Scikit-learn
+- Machine Learning property valuation system
+- Built using **Python, Django & Scikit-learn**
+- Intelligent property prediction with interactive UI
 
 ---
 
-## 🎬 Media Streaming Platform
+### 🎬 Media Streaming Platform
 
-- Netflix-inspired streaming platform
+- Netflix-inspired streaming application
 - PHP, SQL, HTML, CSS & JavaScript
-- User authentication and content management
+- Authentication & dynamic content management
 
 ---
 
-# 📚 Currently Learning
+## 🌱 Currently Learning
 
-- Cloud Deployment (AWS / GCP)
-- LLMOps
-- Multi-Agent AI Systems
-- AI System Design
-- Production-grade AI Applications
+- ☁️ Cloud Deployment (AWS & GCP)
+- 🤖 LLMOps
+- 🧠 Multi-Agent AI Systems
+- 🚀 Production-ready AI Applications
 
 ---
 
-# 🤝 Let's Connect
+## 📫 Connect With Me
 
 <p align="left">
+<a href="mailto:ishitajha1611@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-💼 LinkedIn:
-https://linkedin.com/in/ishita-taneja16
-
-📧 Email:
-ishitajha1611@gmail.com
-
+<a href="https://linkedin.com/in/ishita-taneja16">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ishita-taneja16&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ishita-taneja16&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ishita-taneja16&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishita-taneja16&layout=compact&theme=tokyonight&hide_border=true)
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishita-taneja16&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishita-taneja16&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
 <p align="center">
 
-⭐ Always excited to collaborate on AI, Generative AI and Full-Stack AI projects.
+### 💙 Building AI that solves real-world problems.
+
+⭐ Feel free to explore my repositories and connect with me!
 
 </p>
-```
