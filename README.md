@@ -75,8 +75,7 @@ Passionate about building intelligent AI applications using Large Language Model
 
 # 🚀 Featured Projects
 
-### 🕵️ TruthLensAI
-**Generative AI-Based Lie Detection Platform using Agentic Workflows**
+### 🕵️ [TruthLensAI – Generative AI-Based Lie Detection Platform](https://github.com/ishita-taneja16/TruthLensAI)
 
 - Built intelligent interrogation workflows using **LangGraph**
 - Implemented **Retrieval-Augmented Generation (RAG)**
@@ -86,8 +85,7 @@ Passionate about building intelligent AI applications using Large Language Model
 
 ---
 
-### 🤖 AI Database Genie
-**Agentic AI Database Assistant**
+### 🤖 [AI Database Genie](https://github.com/ishita-taneja16/AI-Database-Genie)
 
 - Natural Language to SQL using **Google Gemini**
 - Agentic workflows with **LangGraph**
@@ -97,8 +95,7 @@ Passionate about building intelligent AI applications using Large Language Model
 
 ---
 
-### 🏠 BrickWorth+
-**AI-powered House Price Prediction Platform**
+### 🏠 [BrickWorth+ – AI-powered House Price Prediction Platform](https://github.com/ishita-taneja16/House-Price-Prediction-System--BrickWorth)
 
 - Machine Learning property valuation system
 - Built using **Python, Django & Scikit-learn**
@@ -106,12 +103,11 @@ Passionate about building intelligent AI applications using Large Language Model
 
 ---
 
-### 🎬 Media Streaming Platform
+### 🎬 [Media Streaming Platform](https://github.com/ishita-taneja16/Media_Streaming_Project)
 
 - Netflix-inspired streaming application
 - PHP, SQL, HTML, CSS & JavaScript
 - Authentication & dynamic content management
-
 ---
 
 ## 🌱 Currently Learning
