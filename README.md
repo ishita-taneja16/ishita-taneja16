@@ -85,7 +85,7 @@ Passionate about building intelligent AI applications using Large Language Model
 
 ---
 
-### 🤖 [Agentic AI Database Genie]([https://github.com/ishita-taneja16/AI-Database-Genie](https://github.com/ishita-taneja16/Agentic-AI-Database-Genie/blob/main/README.md))
+### 🤖 [Agentic AI Database Genie](https://github.com/ishita-taneja16/Agentic-AI-Database-Genie/blob/main/README.md)
 
 - Natural Language to SQL using **Google Gemini**
 - Agentic workflows with **LangGraph**
