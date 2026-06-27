@@ -75,7 +75,7 @@ Passionate about building intelligent AI applications using Large Language Model
 
 # 🚀 Featured Projects
 
-### 🕵️ [TruthLensAI – Generative AI-Based Lie Detection Platform](https://github.com/ishita-taneja16/TruthLensAI)
+### 🕵️ [TruthLensAI – RAG-Enabled Generative AI Lie Detection Platform with Agentic Workflows](https://github.com/ishita-taneja16/TruthLensAI)
 
 - Built intelligent interrogation workflows using **LangGraph**
 - Implemented **Retrieval-Augmented Generation (RAG)**
