@@ -85,7 +85,7 @@ Passionate about building intelligent AI applications using Large Language Model
 
 ---
 
-### 🤖 [AI Database Genie]([https://github.com/ishita-taneja16/AI-Database-Genie](https://github.com/ishita-taneja16/Agentic-AI-Database-Genie/blob/main/README.md))
+### 🤖 [Agentic AI Database Genie]([https://github.com/ishita-taneja16/AI-Database-Genie](https://github.com/ishita-taneja16/Agentic-AI-Database-Genie/blob/main/README.md))
 
 - Natural Language to SQL using **Google Gemini**
 - Agentic workflows with **LangGraph**
@@ -95,7 +95,7 @@ Passionate about building intelligent AI applications using Large Language Model
 
 ---
 
-### 🏠 [BrickWorth+ – AI-powered House Price Prediction Platform](https://github.com/ishita-taneja16/House-Price-Prediction-System--BrickWorth)
+### 🏠 [BrickWorth+ – ML-powered Real Estate Price Prediction and Management Platform](https://github.com/ishita-taneja16/House-PG-and-Flat-Prediction-and-Management)
 
 - Machine Learning property valuation system
 - Built using **Python, Django & Scikit-learn**
