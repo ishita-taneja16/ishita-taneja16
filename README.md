@@ -1,90 +1,163 @@
-<h2 align="center">✨ Hi there! I'm Ishita ✨</h2>
+```markdown
+<h1 align="center">Hi 👋, I'm Ishita Taneja</h1>
+
+<h3 align="center">
+Generative AI Engineer • AI/ML Developer • Building Intelligent AI Applications
+</h3>
+
 <p align="center">
-💻 MCA Student | 🌸 Machine Learning Enthusiast | 🌱 Aspiring Full Stack Developer
+Passionate about building AI systems powered by Large Language Models, Agentic AI workflows, Retrieval-Augmented Generation (RAG), and modern backend technologies.
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding girl gif">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320">
 </p>
 
 ---
 
-## 🌟 About Me
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>✨ Love designing beautiful UIs combined with solid backend logic</li>
-        <li>🧠 Passionate about machine learning & real-world applications</li>
-        <li>📊 Enjoy working with data, databases & dashboards</li>
-        <li>🤝 Believe in learning by building projects & collaborating</li>
-        <li>🌱 Currently exploring Django and Cloud Computing</li>
-      </ul>
-    </td>
-    <td width="140">
-      <td>
-      <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" alt="coding gif">
+# 🚀 About Me
 
-    
-  </td>
-  </tr>
-</table>
+- 🤖 Passionate about **Generative AI, Agentic AI and LLM Applications**
+- 🧠 Building intelligent applications using **LangChain, LangGraph, Gemini API & RAG**
+- 🔍 Interested in AI agents, semantic search and workflow orchestration
+- 🐍 Strong foundation in **Python, Django, SQL and REST APIs**
+- 🌱 Currently exploring **Cloud Deployment, LLMOps and scalable AI systems**
+- 💡 Love solving real-world problems through AI-powered products
 
 ---
 
-## 🚀 Projects
-- 🏠 **[House, PG and Flat Price Prediction and Management System](https://github.com/ishita-taneja16/House-PG-and-Flat-Prediction-and-Management)** - A machine learning–powered platform for smart, verified real estate price prediction and discovery.
-- 🏡 **[House Price Prediction App](https://github.com/ishita-taneja16/House-Price-Prediction-System--BrickWorth)** – ML project with polished UI & interactive visualizations
-- 🎮 **Game Application** – Built using .NET & SQL
-- 🎬 **[Netflix Clone](https://github.com/ishita-taneja16/Media_Streaming_Project)** – HTML, CSS, **PHP (backend)**, SQL | Focus on user-centered design & dynamic content
-- 🏦 **[Banking DBMS](https://github.com/ishita-taneja16/Java_Banking_DBMS_project)** – Java & SQL + PHPMyAdmin for database admin
-- 🌐 **[Personal Portfolio](https://github.com/ishita-taneja16/Portfolio)** – HTML, CSS, JS
+# 🛠 Tech Stack
 
+### AI & Generative AI
 
----
+- Python
+- Large Language Models (LLMs)
+- Google Gemini API
+- LangChain
+- LangGraph
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- FAISS
+- Sentence Transformers
+- Agentic AI Workflows
+- Semantic Search
 
-## 💻 Tech Stack
+### Backend
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/seaborn-0769AD?style=for-the-badge&logo=seaborn&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+- Django
+- REST APIs
+- SQL
+- MySQL
 
----
+### Machine Learning
 
-## ✨ Currently Learning
-- Django web framework
-- Cloud Computing fundamentals & deployment
-- Deploying ML models into production
-- Advanced Linux server scripting & automation
+- Scikit-learn
+- Pandas
+- NumPy
+- OpenCV
 
----
+### Programming
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishita-taneja16)  
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
 
+### Tools
 
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ishita-taneja16&theme=calm&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ishita-taneja16&theme=calm&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishita-taneja16&theme=calm&hide_border=true&layout=compact)
+- Git
+- GitHub
+- VS Code
+- Postman
+- Linux
 
 ---
 
+# 🌟 Featured Projects
+
+## 🕵️ TruthLensAI
+**Generative AI-based Lie Detection Platform using Agentic Workflows**
+
+- Built intelligent multi-turn interrogation workflows using LangGraph
+- Implemented Retrieval-Augmented Generation (RAG)
+- Used FAISS and Sentence Transformers for semantic memory
+- Integrated Google Gemini API for contextual reasoning
+- Developed secure Django REST backend
+
+---
+
+## 🤖 AI Database Genie
+
+**Agentic AI Database Assistant**
+
+- Built an AI assistant that converts natural language into SQL queries
+- Implemented LangGraph workflow orchestration
+- Integrated Google Gemini API
+- Developed secure REST APIs using Django
+- Applied OWASP API security practices
+
+---
+
+## 🏠 BrickWorth+
+
+**ML-powered House Price Prediction Platform**
+
+- Machine Learning-based property valuation system
+- Django backend with interactive web interface
+- Intelligent property search and prediction
+- Model training using Scikit-learn
+
+---
+
+## 🎬 Media Streaming Platform
+
+- Netflix-inspired streaming platform
+- PHP, SQL, HTML, CSS & JavaScript
+- User authentication and content management
+
+---
+
+# 📚 Currently Learning
+
+- Cloud Deployment (AWS / GCP)
+- LLMOps
+- Multi-Agent AI Systems
+- AI System Design
+- Production-grade AI Applications
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+
+💼 LinkedIn:
+https://linkedin.com/in/ishita-taneja16
+
+📧 Email:
+ishitajha1611@gmail.com
+
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ishita-taneja16&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ishita-taneja16&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishita-taneja16&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+<p align="center">
+
+⭐ Always excited to collaborate on AI, Generative AI and Full-Stack AI projects.
+
+</p>
+```
