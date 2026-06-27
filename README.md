@@ -110,6 +110,15 @@ Passionate about building intelligent AI applications using Large Language Model
 - Authentication & dynamic content management
 ---
 
+### 🏦 [Java Banking DBMS](https://github.com/ishita-taneja16/Java_Banking_DBMS_project)
+
+- Developed a Banking Management System using **Java** and **MySQL**
+- Implemented account creation, deposits, withdrawals, balance inquiry, and transaction management
+- Designed and managed the relational database using **phpMyAdmin**
+- Applied CRUD operations, SQL queries, and database normalization principles
+- Focused on secure and efficient database interaction
+---
+
 ## 🌱 Currently Learning
 
 - ☁️ Cloud Deployment (AWS & GCP)
