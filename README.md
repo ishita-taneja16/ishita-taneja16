@@ -75,6 +75,15 @@ Passionate about building intelligent AI applications using Large Language Model
 
 # 🚀 Featured Projects
 
+### 💼 [CareerOS –  Agentic AI Career Platform with Multi-Agent Orchestratio](https://github.com/ishita-taneja16/CareerOS)
+- Built an Agentic AI Career Platform using LangGraph and Google Gemini API
+- Implemented Resume Parsing, ATS Analysis, and AI Career Guidance using RAG
+- Developed Multi-Agent Orchestration with Supervisor, Resume, ATS, Advisor, Interview, and Memory Agents
+- Containerized the application with Docker and implemented GitHub Actions CI/CD for automated testing and builds
+
+---
+
+
 ### 🕵️ [TruthLensAI – RAG-Enabled Generative AI Lie Detection Platform with Agentic Workflows](https://github.com/ishita-taneja16/TruthLensAI)
 
 - Built intelligent interrogation workflows using **LangGraph**
